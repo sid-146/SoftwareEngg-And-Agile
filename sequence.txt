@@ -1,0 +1,6 @@
+## Here is the list of todos and flow of the project ##
+## Try to follow what you have studied in SE and Agile
+
+Todo:
+1 Theme of project
+2 Layout of project
